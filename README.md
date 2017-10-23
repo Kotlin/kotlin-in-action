@@ -1,3 +1,5 @@
+[![official JetBrains project](http://jb.gg/badges/official-plastic.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 This project contains the code samples from the "Kotlin in Action" book (https://www.manning.com/books/kotlin-in-action).
 To build the project import it as Gradle project.
 
