@@ -1,6 +1,7 @@
 package ch10.ex2_1_1_ReflectionAPI
 
-import kotlin.reflect.memberProperties
+import kotlin.reflect.full.memberProperties
+//import kotlin.reflect.memberProperties
 
 class Person(val name: String, val age: Int)
 
